@@ -1,8 +1,8 @@
 # Programs I use
 
-FireAlpaca
-Blender
-Unity
-FL Studio
-Adobe Animate
+FireAlpaca,
+Blender,
+Unity,
+FL Studio,
+Adobe Animate,
 Aesprite
