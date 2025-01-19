@@ -4,4 +4,5 @@ FireAlpaca,
 Blender,
 FL Studio,
 Adobe Animate,
-Aesprite
+Aesprite,
+VSCode
